@@ -1,0 +1,1 @@
+# KindaSmart-Camera---privacy
