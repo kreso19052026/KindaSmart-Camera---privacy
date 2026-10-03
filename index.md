@@ -1,42 +1,61 @@
-Privacy Policy for KindaSmart Camera
+---
+title: "DirCam: Folder Select Camera — Privacy Policy"
+---
 
-Last updated: June 9, 2026
+# Privacy Policy for DirCam: Folder Select Camera
 
-1. Overview
+**App:** DirCam: Folder Select Camera (Android, package `com.kindasmart.camera`)
+**Developer:** Kozo Technology
+**Contact:** kozo.technology@gmail.com
+**Last updated:** October 3, 2026
 
-KindaSmart Camera ("the App") is a camera application developed by KindaSmart. This policy explains what data the App accesses, how it is used, and what third parties are involved.
+## 1. Overview
 
-2. Data We Collect
+DirCam: Folder Select Camera ("the App") is a camera app published on Google Play by Kozo Technology ("we", "us"). It lets you choose the folder your photos and videos are saved to. This policy explains what data the App accesses, how it is used, and which third parties are involved.
 
-The App itself does not collect, store, transmit, or share any personal data with the developer. No accounts, no registration, no analytics of our own.
+## 2. Data we collect
 
-3. Permissions Used
+We, the developer, do not collect, store, transmit or share any personal data. The App has no accounts, no registration and no analytics of its own.
 
-Permission	Why
-Camera	Required to take photos and record videos
-Microphone	Required to record audio in videos
-Internet	Required to load advertisements
-Network State	Used by the ad SDK to check connectivity before loading ads
-Photos and videos you take are saved only to your device (Pictures folder). They are never uploaded anywhere by this App.
+The only third-party service in the App is Google AdMob, which shows ads (see section 4).
 
-4. Advertising — Google AdMob
+## 3. Permissions used
 
-The App displays banner advertisements provided by Google AdMob. Google may collect and use data to serve personalized ads, including device identifiers and usage data, in accordance with Google's own privacy policy.
+| Permission | Why |
+|---|---|
+| Camera | To take photos and record videos |
+| Microphone | To record audio in videos |
+| Vibrate | Short haptic feedback when you take a photo |
+| Internet, Network state | To load ads through Google AdMob |
+| Advertising ID | Used by Google AdMob to serve and measure ads (see section 4) |
 
-You can review Google's data practices here:
-https://policies.google.com/privacy
+## 4. Advertising (Google AdMob) and your consent
 
-To opt out of personalized ads on your device, go to:
-Settings → Google → Ads → Opt out of Ads Personalization
+The App shows banner ads served by Google AdMob. AdMob may collect your device's advertising ID, IP address (used for approximate location), device and operating-system information, and ad interaction data to serve and measure ads. See how Google uses this information: https://policies.google.com/technologies/partner-sites
 
-5. Data Sharing
+**European Economic Area, UK and Switzerland:** on first launch the App asks for your consent through Google's certified consent management platform (Google User Messaging Platform). Personalised ads are shown only if you consent; otherwise you may see limited, non-personalised ads.
 
-We do not sell, trade, or transfer your data to any third party. The only third-party SDK present in the App is Google AdMob (see Section 4).
+**United States:** if you live in a US state with a consumer privacy law (such as California), you can opt out of the sale or sharing of your personal information for targeted advertising.
 
-6. Children's Privacy
+**Change your choice at any time:** open the App's **Settings → Privacy Options** (the gear icon on the camera screen). You can also reset your advertising ID or opt out of personalised ads in your device's Google settings.
+
+## 5. Data stored on your device
+
+- **Photos and videos** you take are saved only on your device: photos in `Pictures/<folder>` and videos in `Movies/<folder>`, where `<folder>` is the folder you choose. The App never uploads them anywhere. They stay in your gallery until you delete them.
+- **App settings** (selected folder, recent folders, camera options such as grid, timer, HDR, video quality) are stored privately inside the App. Uninstalling the App deletes them.
+
+## 6. Data sharing
+
+We do not sell, trade or transfer your data to anyone. Data collected by Google AdMob is handled under Google's privacy policy: https://policies.google.com/privacy
+
+## 7. Children's privacy
 
 The App is not directed at children under 13. We do not knowingly collect data from children.
 
-7. Changes to This Policy
+## 8. Changes to this policy
 
-If we update this policy, the new version will be published at the same URL with an updated date at the top.
+If we update this policy, the new version will be published at this URL with an updated "Last updated" date at the top.
+
+## 9. Contact
+
+Questions about this policy or the App: **kozo.technology@gmail.com** (Kozo Technology).
